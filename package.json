@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "playwright": "^1.17.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "standard": "^16.0.4"
+  }
+}
