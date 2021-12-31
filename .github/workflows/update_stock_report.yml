@@ -1,0 +1,29 @@
+name: Update Playstation 5 stock report
+
+on:
+  schedule: 
+    - cron: '0 */5 * * *'
+
+jobs:
+  update_stock_report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Setup Node 14
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          cache: yarn
+      - name: Install dependencies
+        run: yarn install
+      - name: Create stock report file
+        run: |
+          node index.js > report.json
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Renzo Manganiello'
+          git config --global user.email 'renzo@fmanganiello.com.ar'
+          git add report.json
+          git commit -m "[SCHEDULED] Update stock report"
+          git push origin master
