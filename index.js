@@ -150,7 +150,7 @@ const findItemsBySite = async ({ browser, site }) => {
 }
 
 ;(async () => {
-  const browser = await chromium.launch({ headless: false })
+  const browser = await chromium.launch()
   const promises = sites.map(site => findItemsBySite({ browser, site }))
   const itemsBySite = await Promise.all(promises)
   const itemsByVendor = {}
