@@ -1,0 +1,26 @@
+{
+    "Sony AR": [],
+    "Fravega AR": [
+        {
+            "title": "Consola Sony PlayStation 5",
+            "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
+            "price": "$ 249.000",
+            "hasStock": true
+        }
+    ],
+    "Playstation Direct US": [
+        {
+            "title": "PlayStation®5 Console",
+            "url": "https://direct.playstation.com/en-us/consoles/console/playstation5-console.3006646",
+            "price": "$ 499",
+            "hasStock": false
+        },
+        {
+            "title": "PlayStation®5 Digital Edition Console",
+            "url": "https://direct.playstation.com/en-us/consoles/console/playstation5-digital-edition-console.3006647",
+            "price": "$ 399",
+            "hasStock": false
+        }
+    ],
+    "BestBuy US": []
+}
