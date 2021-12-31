@@ -10,4 +10,4 @@ Scrape some websites to check for PS5 stock
 
 Check for [the report file](./report.json) to check current PS5 stock status in different websites.
 
-This file is refreshed every 5 hours.
+This file is refreshed every 1 hour.
