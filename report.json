@@ -1,5 +1,24 @@
 {
-    "Sony AR": [],
+    "Sony AR": [
+        {
+            "title": "Kit: KD-65X80J + PS5 Estandar",
+            "url": "https://store.sony.com.ar/kd-65x80j_playstation5/p",
+            "price": "$ 349.999",
+            "hasStock": true
+        },
+        {
+            "title": "Kit: KD-75X80J + PS5 Estandar",
+            "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
+            "price": "$ 399.999",
+            "hasStock": true
+        },
+        {
+            "title": "Kit: XBR-55X805H + PS5 Estandar",
+            "url": "https://store.sony.com.ar/xbr-55x805h_playstation5/p",
+            "price": null,
+            "hasStock": false
+        }
+    ],
     "Fravega AR": [
         {
             "title": "Consola Sony PlayStation 5",
