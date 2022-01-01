@@ -1,5 +1,12 @@
 {
-    "Sony AR": [],
+    "Sony AR": [
+        {
+            "title": "Kit: KD-75X80J + PS5 Estandar",
+            "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
+            "price": "$ 399.999",
+            "hasStock": true
+        }
+    ],
     "Fravega AR": [
         {
             "title": "Consola Sony PlayStation 5",
