@@ -3,6 +3,7 @@ name: Update Playstation 5 stock report
 on:
   schedule: 
     - cron: '15 * * * *'
+  workflow_dispatch:
 
 jobs:
   update_stock_report:
@@ -19,7 +20,6 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
-          cache: pip
       - name: Install dependencies
         run: |
           yarn install
