@@ -15,13 +15,22 @@ jobs:
         with:
           node-version: '14'
           cache: yarn
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: pip
       - name: Install dependencies
-        run: yarn install
+        run: |
+          yarn install
+          pip install jinja2-cli
       - name: Create stock report file
         run: node index.js > report.json
+      - name: Update Github Pages index
+        run: jinja2 templates/index.jinja2 report.json --format=json > index.html
       - name: Commit changes
         run: |
           git config --global user.name 'Renzo Manganiello'
           git config --global user.email 'renzo@fmanganiello.com.ar'
-          git add report.json
+          git add report.json index.html
           git diff --staged --quiet || (git commit -m "[SCHEDULED] Update stock report" && git push origin master)

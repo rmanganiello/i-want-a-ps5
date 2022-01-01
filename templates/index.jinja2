@@ -1,0 +1,42 @@
+<div class="vendors-selector">
+    <div class="selector-items">
+        {% for store in stores %}
+            <a href="#{{ store.slug }}">
+                <div class="vendor-selector-item">
+                    <img src="{{ store.logo }}" />
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+</div>
+
+{% for store in stores %}
+    <div class="store-content">
+        <div class="store-header">
+            <a name="{{ store.slug }}"></a>
+            <img src="{{ store.logo }}" />
+        </div>
+        <hr />
+        <div class="store-items">
+            {% if not store.products %}
+                <div class="empty-store">
+                    <h3>No products available</h3>
+                </div>
+            {% else %}
+                {% for item in store.products %}
+                    <div class="item-card">
+                        <a href="{{ item.url }}">
+                            <div class="item-card-img-wrapper">
+                                <img src="{{ item.thumbnail }}" />
+                            </div>
+                        </a>
+                        <div class="item-description">
+                            <h3>{{ item.title }}</h3>
+                            <span>{{ item.price }}</span>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+{% endfor %}
