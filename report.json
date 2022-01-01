@@ -1,33 +1,43 @@
 {
-    "Sony AR": [
+    "stores": [
         {
-            "title": "Kit: KD-75X80J + PS5 Estandar",
-            "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
-            "price": "$ 399.999",
-            "hasStock": true
-        }
-    ],
-    "Fravega AR": [
-        {
-            "title": "Consola Sony PlayStation 5",
-            "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
-            "price": "$ 249.000",
-            "hasStock": true
-        }
-    ],
-    "Playstation Direct US": [
-        {
-            "title": "PlayStation®5 Console",
-            "url": "https://direct.playstation.com/en-us/consoles/console/playstation5-console.3006646",
-            "price": "$ 499",
-            "hasStock": false
+            "vendor": "Sony Store",
+            "slug": "sony-store-ar",
+            "logo": "./assets/img/sony-logo.png",
+            "country": "AR",
+            "currency": "ARS",
+            "products": []
         },
         {
-            "title": "PlayStation®5 Digital Edition Console",
-            "url": "https://direct.playstation.com/en-us/consoles/console/playstation5-digital-edition-console.3006647",
-            "price": "$ 399",
-            "hasStock": false
+            "vendor": "Fravega",
+            "slug": "fravega-ar",
+            "logo": "./assets/img/fravega-logo.webp",
+            "country": "AR",
+            "currency": "ARS",
+            "products": [
+                {
+                    "title": "Consola Sony PlayStation 5",
+                    "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
+                    "price": "$ 249.000",
+                    "thumbnail": "https://images.fravega.com/f300/89bea7a00cd70df09f3c3a9eb44ee94a.jpg"
+                }
+            ]
+        },
+        {
+            "vendor": "Playstation Direct US",
+            "slug": "playstation-direct-us",
+            "logo": "./assets/img/playstation-logo.png",
+            "country": "US",
+            "currency": "USD",
+            "products": []
+        },
+        {
+            "vendor": "BestBuy",
+            "slug": "bestbuy-us",
+            "logo": "./assets/img/bestbuy-logo.png",
+            "country": "US",
+            "currency": "USD",
+            "products": []
         }
-    ],
-    "BestBuy US": []
+    ]
 }
