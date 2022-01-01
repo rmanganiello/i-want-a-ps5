@@ -1,20 +1,6 @@
 {
-    "Sony AR": [
-        {
-            "title": "Kit: KD-75X80J + PS5 Estandar",
-            "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
-            "price": "$ 399.999",
-            "hasStock": true
-        }
-    ],
-    "Fravega AR": [
-        {
-            "title": "Consola Sony PlayStation 5",
-            "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
-            "price": "$ 249.000",
-            "hasStock": true
-        }
-    ],
+    "Sony AR": [],
+    "Fravega AR": [],
     "Playstation Direct US": [
         {
             "title": "PlayStation®5 Console",
