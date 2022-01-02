@@ -1,10 +1,18 @@
 ---
 ---
 
+$section-headings-color: #007bff !default;
+
 @import "{{ site.theme }}";
 
 .main-content {
     max-width: 100%;
+}
+
+.page-header {
+    background-image: url('assets/img/banner.jpg');
+    background-position: center;
+    background-size: cover;
 }
 
 .vendors-selector {
@@ -22,7 +30,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: solid 2px #159957;
+    border: solid 2px #007bff;
     padding: 1em;
     border-radius: 1em;
     width: 12em;
