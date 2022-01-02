@@ -29,10 +29,7 @@ const sites = [
           }
           const url = await item.$eval('.vtex-product-summary-2-x-clearLink', element => element.href)
           const thumbnail = await item.$eval('img', element => element.src)
-          let price = null
-          if (!outOfStock) {
-            price = await item.$eval('.vtex-product-price-1-x-currencyContainer', element => element.innerText)
-          }
+          const price = await item.$eval('.vtex-product-price-1-x-currencyContainer', element => element.innerText)
           ps5Items.push({
             title,
             url,
@@ -47,7 +44,7 @@ const sites = [
   {
     vendor: 'Fravega',
     slug: 'fravega-ar',
-    url: 'https://www.fravega.com/l/?keyword=playstation+5',
+    url: 'https://www.fravega.com/l/?categorias=videojuegos/consolas&keyword=playstation%205',
     logoPath: './assets/img/fravega-logo.webp',
     country: 'AR',
     currency: 'ARS',
@@ -63,23 +60,21 @@ const sites = [
 
       for (const item of items) {
         const title = await item.$eval('span[class^=PieceTitle-shopping-ui]', element => element.innerText)
-        if (title.includes('Consola Sony PlayStation 5')) {
-          const url = await item.$eval('a', element => element.href)
-          const price = await item.$eval('div[data-test-id=product-price]', element => element.innerText)
-          const thumbnail = await item.$eval('img', element => element.src)
-          ps5Items.push({
-            title,
-            url,
-            price,
-            thumbnail
-          })
-        }
+        const url = await item.$eval('a', element => element.href)
+        const price = await item.$eval('div[data-test-id=product-price]', element => element.innerText)
+        const thumbnail = await item.$eval('img', element => element.src)
+        ps5Items.push({
+          title,
+          url,
+          price,
+          thumbnail
+        })
       }
       return ps5Items
     }
   },
   {
-    vendor: 'Playstation Direct US',
+    vendor: 'Playstation Direct',
     slug: 'playstation-direct-us',
     url: 'https://direct.playstation.com/en-us/hardware/ps5',
     logoPath: './assets/img/playstation-logo.png',
@@ -107,6 +102,39 @@ const sites = [
           price: `$ ${price}`,
           thumbnail
         })
+      }
+      return ps5Items
+    }
+  },
+  {
+    vendor: 'Necxus',
+    slug: 'necxus-ar',
+    url: 'https://www.necxus.com.ar/categorias/53/530901/Playstation-5/',
+    logoPath: './assets/img/necxus-logo.svg',
+    country: 'AR',
+    currency: 'ARS',
+    usesPagination: false,
+    getPageNumberQueryString: () => '',
+    checkEmptyPage: async () => false,
+    getAvailableItems: async ({ page }) => {
+      const items = await page.$$('.grid-custom-wrap')
+      const ps5Items = []
+      console.log({ items })
+
+      for (const item of items) {
+        const title = await item.$eval('h2', element => element.innerText)
+        console.log(title)
+        if (title.toLowerCase().includes('consola')) {
+          const url = await item.$eval('a', element => element.href)
+          const price = await item.$eval('span[class=final-price]', element => element.innerText)
+          const thumbnail = await item.$eval('img', element => element.src)
+          ps5Items.push({
+            title,
+            url,
+            price,
+            thumbnail
+          })
+        }
       }
       return ps5Items
     }

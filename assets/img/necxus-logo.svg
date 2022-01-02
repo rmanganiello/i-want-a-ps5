@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   data-name="Capa 1"
+   viewBox="0 0 108.83 26.26"
+   version="1.1"
+   sodipodi:docname="necxus-logo.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata902">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NecxusWeb</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview900"
+     showgrid="false"
+     inkscape:zoom="10.943673"
+     inkscape:cx="54.415001"
+     inkscape:cy="13.13"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <defs
+     id="defs879">
+    <style
+       id="style877">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title881">NecxusWeb</title>
+  <path
+     class="cls-1"
+     d="M65.39,12.83a1.56,1.56,0,0,0-1.51-1.53H61.23a1.56,1.56,0,0,0-1.51,1.53v7.64a1.34,1.34,0,0,1-1.32,1.32,1.32,1.32,0,0,1-1.29-1.32V12.83A4.11,4.11,0,0,1,61.23,8.7h2.65a3.9,3.9,0,0,1,2.9,1.21A4,4,0,0,1,68,12.83v7.64a1.34,1.34,0,0,1-1.31,1.32,1.32,1.32,0,0,1-1.29-1.32Z"
+     transform="translate(-27 -2.1)"
+     id="path883"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M74.77,21.79a4,4,0,0,1-2.92-1.22,4,4,0,0,1-1.22-2.95V12.83a4,4,0,0,1,1.19-2.92A4,4,0,0,1,74.77,8.7h2.82a4.15,4.15,0,0,1,4.14,4.14v2.48a1.32,1.32,0,0,1-1.31,1.29H73.23v1a1.53,1.53,0,0,0,1.53,1.53h5.48a1.31,1.31,0,0,1,0,2.63Zm0-10.49a1.53,1.53,0,0,0-1.53,1.53V14h5.89V12.83a1.53,1.53,0,0,0-1.53-1.53Z"
+     transform="translate(-27 -2.1)"
+     id="path885"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M88.34,21.79a4,4,0,0,1-2.92-1.22,4,4,0,0,1-1.22-2.95V12.83A4.11,4.11,0,0,1,88.32,8.7h5.23A1.3,1.3,0,0,1,94.84,10a1.32,1.32,0,0,1-1.29,1.31H88.34a1.53,1.53,0,0,0-1.53,1.53v4.79a1.53,1.53,0,0,0,1.53,1.53h5.21a1.31,1.31,0,0,1,0,2.63Z"
+     transform="translate(-27 -2.1)"
+     id="path887"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M106.52,21.3l-3.38-4-3.36,4a1.29,1.29,0,0,1-1,.49,1.26,1.26,0,0,1-.83-.32,1.28,1.28,0,0,1-.17-1.82l3.68-4.41-3.68-4.4A1.31,1.31,0,0,1,97.93,9a1.34,1.34,0,0,1,1.85.17l3.36,4,3.38-4A1.31,1.31,0,0,1,108.34,9a1.31,1.31,0,0,1,.17,1.85l-3.67,4.4,3.67,4.41a1.28,1.28,0,0,1-.17,1.82,1.18,1.18,0,0,1-.83.32A1.21,1.21,0,0,1,106.52,21.3Z"
+     transform="translate(-27 -2.1)"
+     id="path889"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M115.53,21.79a4.11,4.11,0,0,1-2.92-1.24,4,4,0,0,1-1.19-2.92V10a1.3,1.3,0,0,1,1.29-1.29A1.32,1.32,0,0,1,114,10v7.64a1.54,1.54,0,0,0,1.51,1.53h2.65a1.54,1.54,0,0,0,1.51-1.53V10A1.3,1.3,0,0,1,121,8.7,1.32,1.32,0,0,1,122.3,10v7.64a4.2,4.2,0,0,1-4.11,4.16Z"
+     transform="translate(-27 -2.1)"
+     id="path891"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M126.36,21.79a1.31,1.31,0,1,1,0-2.63h5.48a1.36,1.36,0,1,0,0-2.73h-3a3.91,3.91,0,0,1-3.89-3.87,3.72,3.72,0,0,1,1.14-2.73,3.77,3.77,0,0,1,2.75-1.14h5.06A1.32,1.32,0,0,1,135.2,10a1.28,1.28,0,0,1-1.31,1.31h-5.06a1.25,1.25,0,1,0,0,2.51h3a4,4,0,0,1,4,4,4,4,0,0,1-4,4Z"
+     transform="translate(-27 -2.1)"
+     id="path893"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M28.78,28.37h5a1.78,1.78,0,0,0,1.26-.52l8.29-8.28a1.78,1.78,0,0,0,0-2.51L35.07,8.78a1.78,1.78,0,0,0-1.26-.52h0a1.78,1.78,0,0,0-1.26,3l3.25,3.25a1.78,1.78,0,0,1,0,2.51l-8.29,8.28A1.78,1.78,0,0,0,28.78,28.37Z"
+     transform="translate(-27 -2.1)"
+     id="path895"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M56.56,2.1h-5a1.78,1.78,0,0,0-1.25.52l-8.17,8.16a1.94,1.94,0,0,0,0,2.75l8.17,8.16a1.78,1.78,0,0,0,1.25.52h0a1.78,1.78,0,0,0,1.26-3l-3.05-3a2.06,2.06,0,0,1,0-2.91l8.09-8.09A1.77,1.77,0,0,0,56.56,2.1Z"
+     transform="translate(-27 -2.1)"
+     id="path897"
+     style="fill:#000000;fill-opacity:1" />
+</svg>
