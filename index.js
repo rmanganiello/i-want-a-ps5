@@ -119,11 +119,9 @@ const sites = [
     getAvailableItems: async ({ page }) => {
       const items = await page.$$('.grid-custom-wrap')
       const ps5Items = []
-      console.log({ items })
 
       for (const item of items) {
         const title = await item.$eval('h2', element => element.innerText)
-        console.log(title)
         if (title.toLowerCase().includes('consola')) {
           const url = await item.$eval('a', element => element.href)
           const price = await item.$eval('span[class=final-price]', element => element.innerText)
