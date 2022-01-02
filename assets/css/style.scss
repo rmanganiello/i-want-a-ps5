@@ -39,7 +39,7 @@ $section-headings-color: #007bff !default;
 
     &:hover,
     &:focus {
-        box-shadow: 0 0.5em 0.8em -0.4em rgb(0 0 0 / 60%);
+        box-shadow: 0 0.5em 0.8em -0.4em rgba(0, 0, 0, 0.6);
         transform: translateY(-0.25em);
     }
 }
