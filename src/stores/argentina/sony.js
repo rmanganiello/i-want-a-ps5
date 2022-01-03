@@ -14,6 +14,7 @@ export default {
     return !!notFoundElement
   },
   getAvailableItems: async ({ page }) => {
+    await page.locator('.vtex-flex-layout-0-x-flexRow--category-products-desktop').waitFor()
     const items = await page.$$('.vtex-search-result-3-x-galleryItem')
     const ps5Items = []
 
