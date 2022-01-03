@@ -8,6 +8,12 @@
             "currency": "ARS",
             "products": [
                 {
+                    "title": "Kit: XBR-55X805H + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/xbr-55x805h_playstation5/p",
+                    "price": "$ 249.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/358572/XBR-55X805H_PS5-Estandar.jpg?v=637758703382970000"
+                },
+                {
                     "title": "Kit: XR-65A80J + PS5 Estandar",
                     "url": "https://store.sony.com.ar/xr-65a80j_playstation5/p",
                     "price": "$ 599.999",
