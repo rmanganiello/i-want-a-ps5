@@ -33,7 +33,7 @@ const findItemsBySite = async ({ context, site }) => {
       siteUrl += site.getPageNumberQueryString({ pageNumber })
     }
     try {
-      await page.goto(siteUrl)
+      await page.goto(siteUrl, { waitUntil: 'networkidle' })
       const isPageEmpty = await site.checkEmptyPage({ page })
       if (isPageEmpty) {
         break
