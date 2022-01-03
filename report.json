@@ -39,14 +39,6 @@
             ]
         },
         {
-            "vendor": "YPF Serviclub",
-            "slug": "ypf-serviclub-ar",
-            "logo": "assets/img/serviclub-logo.jpg",
-            "country": "AR",
-            "currency": "ARS",
-            "products": []
-        },
-        {
             "vendor": "Walmart Argentina",
             "slug": "walmart-ar",
             "logo": "assets/img/walmart-logo.png",
