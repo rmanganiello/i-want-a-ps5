@@ -6,7 +6,7 @@ export default {
   logoPath: 'assets/img/sony-logo.png',
   country: ARGENTINA,
   currency: ARGENTINIAN_PESOS,
-  url: 'https://store.sony.com.ar/consola?order=',
+  url: 'https://store.sony.com.ar/consolas?order=',
   usesPagination: true,
   getPageNumberQueryString: ({ pageNumber }) => `&page=${pageNumber}`,
   checkEmptyPage: async ({ page }) => {
