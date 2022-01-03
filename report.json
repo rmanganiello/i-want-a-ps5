@@ -6,7 +6,20 @@
             "logo": "assets/img/sony-logo.png",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "Kit: XR-65A80J + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/xr-65a80j_playstation5/p",
+                    "price": "$ 599.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357674/XR-65A80J-0.jpg?v=637690213950530000"
+                },
+                {
+                    "title": "Kit: KD-75X80J + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
+                    "price": "$ 399.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357683/KD-75X80J-PS5.jpg?v=637690284389530000"
+                }
+            ]
         },
         {
             "vendor": "Fravega",
