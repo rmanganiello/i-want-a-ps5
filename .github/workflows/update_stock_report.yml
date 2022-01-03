@@ -25,7 +25,7 @@ jobs:
           yarn install
           pip install jinja2-cli
       - name: Create stock report file
-        run: node index.js > report.json
+        run: node src/index.js > report.json
       - name: Update Github Pages index
         run: jinja2 templates/index.jinja2 report.json --format=json > index.html
       - name: Commit changes

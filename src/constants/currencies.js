@@ -1,0 +1,7 @@
+const ARGENTINIAN_PESOS = 'ARS'
+const US_DOLLARS = 'USD'
+
+export {
+  ARGENTINIAN_PESOS,
+  US_DOLLARS
+}
