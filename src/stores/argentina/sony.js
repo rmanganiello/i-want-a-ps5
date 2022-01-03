@@ -19,13 +19,16 @@ export default {
 
     for (const item of items) {
       const outOfStock = await item.$('.vtex-rich-text-0-x-paragraph--producto-sin-stock')
-      if (outOfStock) {
-        continue
-      }
+      // if (outOfStock) {
+      //   continue
+      // }
       const title = await item.$eval('.vtex-product-summary-2-x-productBrand', element => element.innerText)
       const url = await item.$eval('.vtex-product-summary-2-x-clearLink', element => element.href)
       const thumbnail = await item.$eval('img', element => element.src)
-      const price = await item.$eval('.vtex-product-price-1-x-currencyContainer', element => element.innerText)
+      let price = ''
+      if (!outOfStock) {
+        price = await item.$eval('.vtex-product-price-1-x-currencyContainer', element => element.innerText)
+      }
       ps5Items.push({
         title,
         url,
