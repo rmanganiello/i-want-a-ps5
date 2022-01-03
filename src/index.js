@@ -5,7 +5,7 @@ import { USER_AGENT } from './constants/index.js'
 import {
   fravega,
   necxus,
-  serviclub,
+  // serviclub,
   sony,
   walmart,
   bestbuy,
@@ -16,7 +16,8 @@ const sites = [
   sony,
   fravega,
   necxus,
-  serviclub,
+  // FIXME: Disable serviclub for now because it rejects non Argentinian ips.
+  // serviclub,
   walmart,
   bestbuy,
   playstation
