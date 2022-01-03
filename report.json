@@ -3,7 +3,7 @@
         {
             "vendor": "Sony Store",
             "slug": "sony-store-ar",
-            "logo": "./assets/img/sony-logo.png",
+            "logo": "assets/img/sony-logo.png",
             "country": "AR",
             "currency": "ARS",
             "products": []
@@ -11,7 +11,7 @@
         {
             "vendor": "Fravega",
             "slug": "fravega-ar",
-            "logo": "./assets/img/fravega-logo.webp",
+            "logo": "assets/img/fravega-logo.webp",
             "country": "AR",
             "currency": "ARS",
             "products": [
@@ -24,17 +24,9 @@
             ]
         },
         {
-            "vendor": "Playstation Direct",
-            "slug": "playstation-direct-us",
-            "logo": "./assets/img/playstation-logo.png",
-            "country": "US",
-            "currency": "USD",
-            "products": []
-        },
-        {
             "vendor": "Necxus",
             "slug": "necxus-ar",
-            "logo": "./assets/img/necxus-logo.svg",
+            "logo": "assets/img/necxus-logo.svg",
             "country": "AR",
             "currency": "ARS",
             "products": [
@@ -49,7 +41,15 @@
         {
             "vendor": "YPF Serviclub",
             "slug": "ypf-serviclub-ar",
-            "logo": "./assets/img/serviclub-logo.jpg",
+            "logo": "assets/img/serviclub-logo.jpg",
+            "country": "AR",
+            "currency": "ARS",
+            "products": []
+        },
+        {
+            "vendor": "Walmart Argentina",
+            "slug": "walmart-ar",
+            "logo": "assets/img/walmart-logo.png",
             "country": "AR",
             "currency": "ARS",
             "products": []
@@ -57,7 +57,15 @@
         {
             "vendor": "BestBuy",
             "slug": "bestbuy-us",
-            "logo": "./assets/img/bestbuy-logo.png",
+            "logo": "assets/img/bestbuy-logo.png",
+            "country": "US",
+            "currency": "USD",
+            "products": []
+        },
+        {
+            "vendor": "Playstation Direct",
+            "slug": "playstation-direct-us",
+            "logo": "assets/img/playstation-logo.png",
             "country": "US",
             "currency": "USD",
             "products": []
