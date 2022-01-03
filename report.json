@@ -14,14 +14,7 @@
             "logo": "assets/img/fravega-logo.webp",
             "country": "AR",
             "currency": "ARS",
-            "products": [
-                {
-                    "title": "Consola Sony PlayStation 5",
-                    "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
-                    "price": "$ 249.000",
-                    "thumbnail": "https://images.fravega.com/f300/89bea7a00cd70df09f3c3a9eb44ee94a.jpg"
-                }
-            ]
+            "products": []
         },
         {
             "vendor": "Necxus",
@@ -29,14 +22,7 @@
             "logo": "assets/img/necxus-logo.svg",
             "country": "AR",
             "currency": "ARS",
-            "products": [
-                {
-                    "title": "Consola Playstation 5 825Gb Digital Edition Ps5 - Blanco/Negro",
-                    "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
-                    "price": "$ 184.999",
-                    "thumbnail": "https://www.necxus.com.ar/cache/22846_250x250_1.jpg"
-                }
-            ]
+            "products": []
         },
         {
             "vendor": "Walmart Argentina",
