@@ -17,8 +17,9 @@ layout: default
 {% for store in stores %}
     <div class="store-content">
         <div class="store-header">
-            <a name="{{ store.slug }}"></a>
-            <img src="{{ store.logo }}" />
+            <a name="{{ store.slug }}" href="{{ store.url }}" target="_blank" rel="noreferrer">
+                <img src="{{ store.logo }}" />
+            </a>
         </div>
         <hr />
         <div class="store-items">

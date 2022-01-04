@@ -61,11 +61,12 @@ const findItemsBySite = async ({ context, site }) => {
   const result = await Promise.all(promises)
   const report = {
     stores: result.map((items, idx) => {
-      const { vendor, slug, logoPath, country, currency } = sites[idx]
+      const { vendor, slug, logoPath, country, currency, url } = sites[idx]
       return {
         vendor,
         slug,
         logo: logoPath,
+        url,
         country,
         currency,
         products: items
