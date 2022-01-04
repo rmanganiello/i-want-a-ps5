@@ -7,14 +7,17 @@ export default {
   country: ARGENTINA,
   currency: ARGENTINIAN_PESOS,
   url: 'https://store.sony.com.ar/consolas?order=',
-  usesPagination: true,
-  getPageNumberQueryString: ({ pageNumber }) => `&page=${pageNumber}`,
+  usesPagination: false,
+  getPageNumberQueryString: () => '',
   checkEmptyPage: async ({ page }) => {
     const notFoundElement = await page.$('.vtex-rich-text-0-x-heading--notfound')
     return !!notFoundElement
   },
   getAvailableItems: async ({ page }) => {
-    await page.locator('.vtex-flex-layout-0-x-flexRow--category-products-desktop').waitFor()
+    // Wait for cart icon to be render because it takes some time for Sony page
+    // to render items correctly (it renders them without stock first and then it evaluates
+    // the stock)
+    await page.locator('.vtex-minicart-2-x-minicartIconContainer').waitFor()
     const items = await page.$$('.vtex-search-result-3-x-galleryItem')
     const ps5Items = []
 
