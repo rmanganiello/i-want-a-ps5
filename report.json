@@ -4,6 +4,7 @@
             "vendor": "Sony Store",
             "slug": "sony-store-ar",
             "logo": "assets/img/sony-logo.png",
+            "url": "https://store.sony.com.ar/consolas?order=",
             "country": "AR",
             "currency": "ARS",
             "products": [
@@ -25,32 +26,33 @@
             "vendor": "MercadoLibre",
             "slug": "mercadolibre-ar",
             "logo": "assets/img/mercadolibre-logo.png",
+            "url": "https://videojuegos.mercadolibre.com.ar/consolas/playstation-5/nuevo/playstation-5_NoIndex_True#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3D2230284%26applied_value_name%3DNuevo%26applied_value_order%3D1%26applied_value_results%3D172%26is_custom%3Dfalse",
             "country": "AR",
             "currency": "ARS",
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=fd45dd04-da1a-45a4-8171-c6dba2b15f6e",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=4d8e127c-5a7c-40c3-9036-f86205f7bbef",
                     "price": "$ 203.499",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=fd45dd04-da1a-45a4-8171-c6dba2b15f6e",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=4d8e127c-5a7c-40c3-9036-f86205f7bbef",
                     "price": "$ 237.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
-                    "title": "Consola Playstation 5 Digital Ed. Bco Y Negro / Sin Interes",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-926767849-consola-playstation-5-digital-ed-bco-y-negro-sin-interes-_JM?searchVariation=88884455034#searchVariation=88884455034&position=3&search_layout=stack&type=item&tracking_id=fd45dd04-da1a-45a4-8171-c6dba2b15f6e",
-                    "price": "$ 237.999",
-                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921181-MLA44435659373_122020-V.webp"
+                    "title": "Sony Playstation 5 825 Gb Standard Con Lectora Ps5 Cuotas!",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1116434284-sony-playstation-5-825-gb-standard-con-lectora-ps5-cuotas-_JM?searchVariation=174019197873#searchVariation=174019197873&position=3&search_layout=stack&type=item&tracking_id=4d8e127c-5a7c-40c3-9036-f86205f7bbef",
+                    "price": "$ 251.900",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
-                    "title": "Consola Ps5 Standard Playstation 5 825gb Joystick Adicional",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1108278334-consola-ps5-standard-playstation-5-825gb-joystick-adicional-_JM?searchVariation=173808098036#searchVariation=173808098036&position=4&search_layout=stack&type=item&tracking_id=fd45dd04-da1a-45a4-8171-c6dba2b15f6e",
-                    "price": "$ 220.990",
-                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_952809-MLA47878558648_102021-V.webp"
+                    "title": "Consola Playstation 5 Digital Ed. Bco Y Negro / Sin Interes",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-926767849-consola-playstation-5-digital-ed-bco-y-negro-sin-interes-_JM?searchVariation=88884455034#searchVariation=88884455034&position=4&search_layout=stack&type=item&tracking_id=4d8e127c-5a7c-40c3-9036-f86205f7bbef",
+                    "price": "$ 237.999",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921181-MLA44435659373_122020-V.webp"
                 }
             ]
         },
@@ -58,6 +60,7 @@
             "vendor": "Fravega",
             "slug": "fravega-ar",
             "logo": "assets/img/fravega-logo.webp",
+            "url": "https://www.fravega.com/l/?categorias=videojuegos/consolas&keyword=playstation%205",
             "country": "AR",
             "currency": "ARS",
             "products": [
@@ -73,6 +76,7 @@
             "vendor": "Necxus",
             "slug": "necxus-ar",
             "logo": "assets/img/necxus-logo.svg",
+            "url": "https://www.necxus.com.ar/categorias/53/530901/Playstation-5/",
             "country": "AR",
             "currency": "ARS",
             "products": [
@@ -88,6 +92,7 @@
             "vendor": "Walmart Argentina",
             "slug": "walmart-ar",
             "logo": "assets/img/walmart-logo.png",
+            "url": "https://www.walmart.com.ar/consola-playstation-5-standard/p",
             "country": "AR",
             "currency": "ARS",
             "products": []
@@ -96,6 +101,7 @@
             "vendor": "BestBuy",
             "slug": "bestbuy-us",
             "logo": "assets/img/bestbuy-logo.png",
+            "url": "https://www.bestbuy.com/site/searchpage.jsp?intl=nosplash&st=playstation+5",
             "country": "US",
             "currency": "USD",
             "products": []
@@ -104,6 +110,7 @@
             "vendor": "Playstation Direct",
             "slug": "playstation-direct-us",
             "logo": "assets/img/playstation-logo.png",
+            "url": "https://direct.playstation.com/en-us/hardware/ps5",
             "country": "US",
             "currency": "USD",
             "products": []
