@@ -3,6 +3,7 @@
 import { chromium } from 'playwright'
 import { USER_AGENT } from './constants/index.js'
 import {
+  mercadolibre,
   fravega,
   necxus,
   // serviclub,
@@ -14,6 +15,7 @@ import {
 
 const sites = [
   sony,
+  mercadolibre,
   fravega,
   necxus,
   // FIXME: Disable serviclub for now because it rejects non Argentinian ips.
