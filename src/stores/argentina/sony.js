@@ -1,3 +1,4 @@
+import { errors } from 'playwright'
 import { ARGENTINA, ARGENTINIAN_PESOS } from '../../constants/index.js'
 
 export default {
@@ -6,27 +7,37 @@ export default {
   logoPath: 'assets/img/sony-logo.png',
   country: ARGENTINA,
   currency: ARGENTINIAN_PESOS,
-  url: 'https://store.sony.com.ar/consolas?order=',
-  usesPagination: false,
-  getPageNumberQueryString: () => '',
+  url: 'https://store.sony.com.ar/ps5?order=',
+  usesPagination: true,
+  getPageNumberQueryString: ({ pageNumber }) => `&page=${pageNumber}`,
   checkEmptyPage: async ({ page }) => {
     const notFoundElement = await page.$('.vtex-rich-text-0-x-heading--notfound')
     return !!notFoundElement
   },
   getAvailableItems: async ({ page }) => {
-    // Wait for cart icon to be render because it takes some time for Sony page
-    // to render items correctly (it renders them without stock first and then it evaluates
+    // Wait for buy button because it takes some time for Sony page to render
+    // items correctly (it renders them without stock first and then it evaluates
     // the stock)
-    await page.locator('.vtex-minicart-2-x-minicartIconContainer').waitFor()
+    try {
+      await page.waitForSelector('.vtex-rich-text-0-x-paragraph--buy-button-shelf-promociones')
+    } catch (err) {
+      if (err instanceof errors.TimeoutError) {
+        return []
+      }
+      throw err
+    }
     const items = await page.$$('.vtex-search-result-3-x-galleryItem')
     const ps5Items = []
 
     for (const item of items) {
+      const title = await item.$eval('.vtex-product-summary-2-x-productBrand', element => element.innerText)
+      if (!title.toLowerCase().includes('ps5 estandar')) {
+        continue
+      }
       const outOfStock = await item.$('.vtex-rich-text-0-x-paragraph--producto-sin-stock')
       if (outOfStock) {
         continue
       }
-      const title = await item.$eval('.vtex-product-summary-2-x-productBrand', element => element.innerText)
       const url = await item.$eval('.vtex-product-summary-2-x-clearLink', element => element.href)
       const thumbnail = await item.$eval('img', element => element.src)
       const price = await item.$eval('.vtex-product-price-1-x-currencyContainer', element => element.innerText)
