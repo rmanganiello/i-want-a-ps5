@@ -20,7 +20,7 @@ export default {
     for (const item of items) {
       const title = await item.$eval('span[class^=PieceTitle-shopping-ui]', element => element.innerText)
       const url = await item.$eval('a', element => element.href)
-      const price = await item.$eval('div[data-test-id=product-price]', element => element.innerText)
+      const price = await item.$eval('span[class^=SalePrice-shopping-ui]', element => element.innerText)
       const thumbnail = await item.$eval('img', element => element.src)
       ps5Items.push({
         title,
