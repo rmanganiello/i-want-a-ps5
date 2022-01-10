@@ -11,13 +11,13 @@ export default {
   getPageNumberQueryString: () => '',
   checkEmptyPage: async () => false,
   getAvailableItems: async ({ page }) => {
-    const items = await page.$$('.grid-custom-wrap')
+    const items = await page.$$('#addGrid a[class=t_product_thumbs]')
     const ps5Items = []
 
     for (const item of items) {
       const title = await item.$eval('h2', element => element.innerText)
       if (title.toLowerCase().includes('consola')) {
-        const url = await item.$eval('a', element => element.href)
+        const url = await item.evaluate(element => element.href)
         const price = await item.$eval('span[class=final-price]', element => element.innerText)
         const thumbnail = await item.$eval('img', element => element.src)
         ps5Items.push({
