@@ -1,0 +1,112 @@
+{
+    "stores": [
+        {
+            "vendor": "Sony Store",
+            "slug": "sony-store-ar",
+            "logo": "assets/img/sony-logo.png",
+            "url": "https://store.sony.com.ar/consolas",
+            "country": "AR",
+            "currency": "ARS",
+            "products": [
+                {
+                    "title": "Kit: KD-75X80J + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
+                    "price": "$ 499.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357683/KD-75X80J-PS5.jpg?v=637690284389530000"
+                },
+                {
+                    "title": "Kit: XR-65A80J + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/xr-65a80j_playstation5/p",
+                    "price": "$ 699.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357674/XR-65A80J-0.jpg?v=637690213950530000"
+                }
+            ]
+        },
+        {
+            "vendor": "MercadoLibre",
+            "slug": "mercadolibre-ar",
+            "logo": "assets/img/mercadolibre-logo.png",
+            "url": "https://videojuegos.mercadolibre.com.ar/consolas/playstation-5/nuevo/playstation-5_NoIndex_True#applied_filter_id%3DITEM_CONDITION%26applied_filter_name%3DCondici%C3%B3n%26applied_filter_order%3D2%26applied_value_id%3D2230284%26applied_value_name%3DNuevo%26applied_value_order%3D1%26applied_value_results%3D172%26is_custom%3Dfalse",
+            "country": "AR",
+            "currency": "ARS",
+            "products": [
+                {
+                    "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566#searchVariation=MLA16253015&position=1&search_layout=stack&type=product&tracking_id=836c1fc4-e34c-42b4-a2f6-4b86bfd75f85",
+                    "price": "$ 192.999",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
+                },
+                {
+                    "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=2&search_layout=stack&type=product&tracking_id=836c1fc4-e34c-42b4-a2f6-4b86bfd75f85",
+                    "price": "$ 198.500",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
+                },
+                {
+                    "title": "Consola Playstation 5 825gb Standard Ps5 + Joy Adicional",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1101164156-consola-playstation-5-825gb-standard-ps5-joy-adicional-_JM?searchVariation=173575223941#searchVariation=173575223941&position=3&search_layout=stack&type=item&tracking_id=836c1fc4-e34c-42b4-a2f6-4b86bfd75f85",
+                    "price": "$ 219.999",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_826405-MLA47345066873_092021-V.webp"
+                },
+                {
+                    "title": "Consola Playstation 5 825gb Standard Ps5 + Fifa 22 / Makkax",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1106315115-consola-playstation-5-825gb-standard-ps5-fifa-22-makkax-_JM?searchVariation=173754813001#searchVariation=173754813001&position=4&search_layout=stack&type=item&tracking_id=836c1fc4-e34c-42b4-a2f6-4b86bfd75f85",
+                    "price": "$ 212.999",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_786668-MLA48041694212_102021-V.webp"
+                }
+            ]
+        },
+        {
+            "vendor": "Fravega",
+            "slug": "fravega-ar",
+            "logo": "assets/img/fravega-logo.webp",
+            "url": "https://www.fravega.com/l/?categorias=videojuegos/consolas&keyword=playstation%205",
+            "country": "AR",
+            "currency": "ARS",
+            "products": []
+        },
+        {
+            "vendor": "Necxus",
+            "slug": "necxus-ar",
+            "logo": "assets/img/necxus-logo.svg",
+            "url": "https://www.necxus.com.ar/categorias/53/530901/Playstation-5/",
+            "country": "AR",
+            "currency": "ARS",
+            "products": [
+                {
+                    "title": "Consola Playstation 5 825Gb Digital Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
+                    "price": "$ 194.999",
+                    "thumbnail": "https://www.necxus.com.ar/cache/22846_250x250_1.jpg"
+                }
+            ]
+        },
+        {
+            "vendor": "Walmart Argentina",
+            "slug": "walmart-ar",
+            "logo": "assets/img/walmart-logo.png",
+            "url": "https://www.walmart.com.ar/consola-playstation-5-standard/p",
+            "country": "AR",
+            "currency": "ARS",
+            "products": []
+        },
+        {
+            "vendor": "BestBuy",
+            "slug": "bestbuy-us",
+            "logo": "assets/img/bestbuy-logo.png",
+            "url": "https://www.bestbuy.com/site/searchpage.jsp?intl=nosplash&st=playstation+5",
+            "country": "US",
+            "currency": "USD",
+            "products": []
+        },
+        {
+            "vendor": "Playstation Direct",
+            "slug": "playstation-direct-us",
+            "logo": "assets/img/playstation-logo.png",
+            "url": "https://direct.playstation.com/en-us/hardware/ps5",
+            "country": "US",
+            "currency": "USD",
+            "products": []
+        }
+    ]
+}
