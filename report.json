@@ -7,26 +7,7 @@
             "url": "https://store.sony.com.ar/consolas",
             "country": "AR",
             "currency": "ARS",
-            "products": [
-                {
-                    "title": "Kit: KD-65X80J + PS5 Estandar",
-                    "url": "https://store.sony.com.ar/kd-65x80j_playstation5/p",
-                    "price": "$ 399.999",
-                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357692/KD-75X80J-PS5.jpg?v=637690291784370000"
-                },
-                {
-                    "title": "Kit: KD-75X80J + PS5 Estandar",
-                    "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
-                    "price": "$ 499.999",
-                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357683/KD-75X80J-PS5.jpg?v=637690284389530000"
-                },
-                {
-                    "title": "Kit: XR-65A80J + PS5 Estandar",
-                    "url": "https://store.sony.com.ar/xr-65a80j_playstation5/p",
-                    "price": "$ 699.999",
-                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357674/XR-65A80J-0.jpg?v=637690213950530000"
-                }
-            ]
+            "products": []
         },
         {
             "vendor": "MercadoLibre",
@@ -38,25 +19,25 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=7b94169a-174b-4282-9c1f-254ebc7c20d8",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=526d2052-e2a2-4d86-8ab5-ec4ebb81cb89",
                     "price": "$ 206.000",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=7b94169a-174b-4282-9c1f-254ebc7c20d8",
-                    "price": "$ 191.999",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=526d2052-e2a2-4d86-8ab5-ec4ebb81cb89",
+                    "price": "$ 190.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
                     "title": "Sony Playstation 5 825 Gb Standard Con Lectora Ps5",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1116263710-sony-playstation-5-825-gb-standard-con-lectora-ps5-_JM?searchVariation=174015156290#searchVariation=174015156290&position=3&search_layout=stack&type=item&tracking_id=7b94169a-174b-4282-9c1f-254ebc7c20d8",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1116263710-sony-playstation-5-825-gb-standard-con-lectora-ps5-_JM?searchVariation=174015156290#searchVariation=174015156290&position=3&search_layout=stack&type=item&tracking_id=526d2052-e2a2-4d86-8ab5-ec4ebb81cb89",
                     "price": "$ 214.900",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Play Station 5 Digital ,leer Descripcion!!(la Plata)",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1116577079-play-station-5-digital-leer-descripcionla-plata-_JM?searchVariation=174023622178#searchVariation=174023622178&position=4&search_layout=stack&type=item&tracking_id=7b94169a-174b-4282-9c1f-254ebc7c20d8",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1116577079-play-station-5-digital-leer-descripcionla-plata-_JM?searchVariation=174023622178#searchVariation=174023622178&position=4&search_layout=stack&type=item&tracking_id=526d2052-e2a2-4d86-8ab5-ec4ebb81cb89",
                     "price": "$ 174.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_801467-MLA48795684081_012022-V.webp"
                 }
