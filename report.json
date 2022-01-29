@@ -18,26 +18,26 @@
             "currency": "ARS",
             "products": [
                 {
-                    "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566#searchVariation=MLA16253015&position=1&search_layout=stack&type=product&tracking_id=56245047-1699-423c-8fbb-39c441b97d56",
-                    "price": "$ 187.102",
-                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
-                },
-                {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=2&search_layout=stack&type=product&tracking_id=56245047-1699-423c-8fbb-39c441b97d56",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=09bc8fad-4ff2-4bda-8264-3df050381ad5",
                     "price": "$ 212.172",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
+                    "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=09bc8fad-4ff2-4bda-8264-3df050381ad5",
+                    "price": "$ 187.102",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
+                },
+                {
                     "title": "Sony Playstation 5 Ps5 825gb Standard C/disco - Blanco/negro",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-912782679-sony-playstation-5-ps5-825gb-standard-cdisco-blanconegro-_JM?searchVariation=79304595724#searchVariation=79304595724&position=3&search_layout=stack&type=item&tracking_id=56245047-1699-423c-8fbb-39c441b97d56",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-912782679-sony-playstation-5-ps5-825gb-standard-cdisco-blanconegro-_JM?searchVariation=79304595724#searchVariation=79304595724&position=3&search_layout=stack&type=item&tracking_id=09bc8fad-4ff2-4bda-8264-3df050381ad5",
                     "price": "$ 229.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Consola Ps5 Digital Local A La Calle Newportobelisco",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-928078328-consola-ps5-digital-local-a-la-calle-newportobelisco-_JM?searchVariation=89804807230#searchVariation=89804807230&position=4&search_layout=stack&type=item&tracking_id=56245047-1699-423c-8fbb-39c441b97d56",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-928078328-consola-ps5-digital-local-a-la-calle-newportobelisco-_JM?searchVariation=89804807230#searchVariation=89804807230&position=4&search_layout=stack&type=item&tracking_id=09bc8fad-4ff2-4bda-8264-3df050381ad5",
                     "price": "$ 192.890",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_989798-MLA46597325645_072021-V.webp"
                 }
@@ -65,12 +65,6 @@
                     "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
                     "price": "$ 197.999",
                     "thumbnail": "https://www.necxus.com.ar/cache/22846_250x250_1.jpg"
-                },
-                {
-                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
-                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
-                    "price": "$ 202.699",
-                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
                 }
             ]
         },
