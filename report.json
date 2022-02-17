@@ -7,7 +7,26 @@
             "url": "https://store.sony.com.ar/consolas",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "Kit: PlayStation® 5 + PS5 Ratchet & Clank: Rift Apart",
+                    "url": "https://store.sony.com.ar/playstation5_ratchet-and-clank-rift-apart/p",
+                    "price": "$ 199.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357021/PlayStation5-Ratchet-ClankRiftApart-2.jpg?v=637588166155430000"
+                },
+                {
+                    "title": "Kit: KD-65X80J + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/kd-65x80j_playstation5/p",
+                    "price": "$ 399.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357692/KD-75X80J-PS5.jpg?v=637690291784370000"
+                },
+                {
+                    "title": "Kit: KD-75X80J + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/kd-75x80j_playstation5/p",
+                    "price": "$ 499.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357683/KD-75X80J-PS5.jpg?v=637690284389530000"
+                }
+            ]
         },
         {
             "vendor": "MercadoLibre",
@@ -19,25 +38,25 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=550ba931-2cd1-4c03-a63a-572c6119c82f",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=1897caa5-8deb-41e0-8263-7adcf6465d93",
                     "price": "$ 209.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=550ba931-2cd1-4c03-a63a-572c6119c82f",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=1897caa5-8deb-41e0-8263-7adcf6465d93",
                     "price": "$ 201.923",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
                     "title": "Consola Ps5 Standard Playstation 5 825gb Joystick Adicional",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1108278334-consola-ps5-standard-playstation-5-825gb-joystick-adicional-_JM?searchVariation=173808098036#searchVariation=173808098036&position=3&search_layout=stack&type=item&tracking_id=550ba931-2cd1-4c03-a63a-572c6119c82f",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1108278334-consola-ps5-standard-playstation-5-825gb-joystick-adicional-_JM?searchVariation=173808098036#searchVariation=173808098036&position=3&search_layout=stack&type=item&tracking_id=1897caa5-8deb-41e0-8263-7adcf6465d93",
                     "price": "$ 231.990",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_952809-MLA47878558648_102021-V.webp"
                 },
                 {
                     "title": "Consola Ps5 Edición Digital Original Sony Nueva 4k",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1123871442-consola-ps5-edicion-digital-original-sony-nueva-4k-_JM?searchVariation=174208979869#searchVariation=174208979869&position=4&search_layout=stack&type=item&tracking_id=550ba931-2cd1-4c03-a63a-572c6119c82f",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1123871442-consola-ps5-edicion-digital-original-sony-nueva-4k-_JM?searchVariation=174208979869#searchVariation=174208979869&position=4&search_layout=stack&type=item&tracking_id=1897caa5-8deb-41e0-8263-7adcf6465d93",
                     "price": "$ 201.923",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 }
@@ -61,16 +80,16 @@
             "currency": "ARS",
             "products": [
                 {
-                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
-                    "url": "https://www.necxus.com.ar/productos/24007/Consola-Playstation-5-825Gb-Fisica-Editi",
-                    "price": "$ 202.699",
-                    "thumbnail": "https://www.necxus.com.ar/cache/24007_250x250_1.jpg"
-                },
-                {
                     "title": "Consola Playstation 5 825Gb Digital Edition Ps5 - Blanco/Negro",
                     "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
                     "price": "$ 197.999",
                     "thumbnail": "https://www.necxus.com.ar/cache/22846_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/24007/Consola-Playstation-5-825Gb-Fisica-Editi",
+                    "price": "$ 202.699",
+                    "thumbnail": "https://www.necxus.com.ar/cache/24007_250x250_1.jpg"
                 }
             ]
         },
