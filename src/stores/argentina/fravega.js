@@ -14,13 +14,13 @@ export default {
     return !!notFoundElement
   },
   getAvailableItems: async ({ page }) => {
-    const items = await page.$$('article[class^=ProductCard__Card-shopping-ui]')
+    const items = await page.$$('article[data-test-id=result-item]')
     const ps5Items = []
 
     for (const item of items) {
-      const title = await item.$eval('span[class^=PieceTitle-shopping-ui]', element => element.innerText)
+      const title = await item.$eval('div[data-test-id=product-price]', element => element.previousElementSibling ? element.previousElementSibling.innerText : '')
       const url = await item.$eval('a', element => element.href)
-      const price = await item.$eval('span[class^=SalePrice-shopping-ui]', element => element.innerText)
+      const price = await item.$eval('div[data-test-id=product-price] > span', element => element.innerText)
       const thumbnail = await item.$eval('img', element => element.src)
       ps5Items.push({
         title,
