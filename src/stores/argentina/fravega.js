@@ -10,7 +10,7 @@ export default {
   usesPagination: true,
   getPageNumberQueryString: ({ pageNumber }) => `&page=${pageNumber}`,
   checkEmptyPage: async ({ page }) => {
-    const notFoundElement = await page.$('svg[class^=BannerNoSuggestion__NotFoundImageStyled]')
+    const notFoundElement = await page.$('div[data-test-id=noItemsResult]')
     return !!notFoundElement
   },
   getAvailableItems: async ({ page }) => {
