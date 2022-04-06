@@ -21,6 +21,12 @@
                     "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/359168/ps5-horizon.jpg?v=637828666011900000"
                 },
                 {
+                    "title": "Kit: PS5 + UNCHARTED",
+                    "url": "https://store.sony.com.ar/ps5_uncharted-legacy-of-thieves/p",
+                    "price": "$ 179.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/359141/PS5.stndrd_PS_Legacyofthieves2.jpg?v=637818376645400000"
+                },
+                {
                     "title": "Kit: KD-65X80J + PS5 Estandar",
                     "url": "https://store.sony.com.ar/kd-65x80j_playstation5/p",
                     "price": "$ 349.999",
@@ -104,27 +110,27 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=40b8dd03-2b56-4d20-b0eb-20ba18caf0f6",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=8d86f62c-457d-4b10-b720-b56cbae6ee10",
                     "price": "$ 193.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=40b8dd03-2b56-4d20-b0eb-20ba18caf0f6",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=8d86f62c-457d-4b10-b720-b56cbae6ee10",
                     "price": "$ 190.098",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
-                    "title": "Play Station 5 Stdrd ,leer Descripcion!!! (city Bell)",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1100940212-play-station-5-stdrd-leer-descripcion-city-bell-_JM?searchVariation=173567145344#searchVariation=173567145344&position=3&search_layout=stack&type=item&tracking_id=40b8dd03-2b56-4d20-b0eb-20ba18caf0f6",
-                    "price": "$ 199.999",
-                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_902819-MLA49487842989_032022-V.webp"
-                },
-                {
                     "title": "Consola Playstation 5 825gb Standard Ps5 + Joy Adicional",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1101164156-consola-playstation-5-825gb-standard-ps5-joy-adicional-_JM?searchVariation=173575223941#searchVariation=173575223941&position=4&search_layout=stack&type=item&tracking_id=40b8dd03-2b56-4d20-b0eb-20ba18caf0f6",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1101164156-consola-playstation-5-825gb-standard-ps5-joy-adicional-_JM?searchVariation=173575223941#searchVariation=173575223941&position=3&search_layout=stack&type=item&tracking_id=8d86f62c-457d-4b10-b720-b56cbae6ee10",
                     "price": "$ 252.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_826405-MLA47345066873_092021-V.webp"
+                },
+                {
+                    "title": "Consola Playstation 5 825gb Standard Ps5 / Sin Interes",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-918258142-consola-playstation-5-825gb-standard-ps5-sin-interes-_JM?searchVariation=83062221534#searchVariation=83062221534&position=4&search_layout=stack&type=item&tracking_id=8d86f62c-457d-4b10-b720-b56cbae6ee10",
+                    "price": "$ 234.999",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 }
             ]
         },
