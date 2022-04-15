@@ -4,6 +4,7 @@ import { chromium } from 'playwright'
 import { USER_AGENT } from './constants/index.js'
 import {
   atajo,
+  cetrogar,
   mercadolibre,
   fravega,
   necxus,
@@ -22,6 +23,7 @@ const sites = [
   // FIXME: Disable serviclub for now because it rejects non Argentinian ips.
   // serviclub,
   masonline,
+  cetrogar,
   bestbuy
 ]
 
