@@ -9,9 +9,8 @@ import {
   necxus,
   // serviclub,
   sony,
-  walmart,
   bestbuy,
-  playstation
+  masonline
 } from './stores/index.js'
 
 const sites = [
@@ -22,9 +21,8 @@ const sites = [
   mercadolibre,
   // FIXME: Disable serviclub for now because it rejects non Argentinian ips.
   // serviclub,
-  walmart,
-  bestbuy,
-  playstation
+  masonline,
+  bestbuy
 ]
 
 const findItemsBySite = async ({ context, site }) => {
@@ -37,7 +35,7 @@ const findItemsBySite = async ({ context, site }) => {
       siteUrl += site.getPageNumberQueryString({ pageNumber })
     }
     try {
-      await page.goto(siteUrl)
+      await page.goto(siteUrl, site.navigationSettings || {})
       const isPageEmpty = await site.checkEmptyPage({ page })
       if (isPageEmpty) {
         break

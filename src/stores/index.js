@@ -1,14 +1,13 @@
-import { atajo, mercadolibre, fravega, necxus, serviclub, sony, walmart } from './argentina/index.js'
-import { bestbuy, playstation } from './usa/index.js'
+import { atajo, mercadolibre, fravega, necxus, serviclub, sony, masonline } from './argentina/index.js'
+import { bestbuy } from './usa/index.js'
 
 export {
   atajo,
   bestbuy,
   fravega,
+  masonline,
   mercadolibre,
   necxus,
-  playstation,
   serviclub,
-  sony,
-  walmart
+  sony
 }
