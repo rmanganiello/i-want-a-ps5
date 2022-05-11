@@ -7,7 +7,32 @@
             "url": "https://store.sony.com.ar/consolas",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "Kit: PlayStation 5 + Horizon Forbidden West",
+                    "url": "https://store.sony.com.ar/kit-ps5_horizon-forbidden-west/p",
+                    "price": "$ 159.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/359168/ps5-horizon.jpg?v=637828666011900000"
+                },
+                {
+                    "title": "Kit: PS5 + UNCHARTED",
+                    "url": "https://store.sony.com.ar/ps5_uncharted-legacy-of-thieves/p",
+                    "price": "$ 159.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/359141/PS5.stndrd_PS_Legacyofthieves2.jpg?v=637818376645400000"
+                },
+                {
+                    "title": "Kit: PlayStation® 5 + PS5 Ratchet & Clank: Rift Apart",
+                    "url": "https://store.sony.com.ar/playstation5_ratchet-and-clank-rift-apart/p",
+                    "price": "$ 159.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357021/PlayStation5-Ratchet-ClankRiftApart-2.jpg?v=637588166155430000"
+                },
+                {
+                    "title": "Kit: KD-65X80J + PS5 Estandar",
+                    "url": "https://store.sony.com.ar/kd-65x80j_playstation5/p",
+                    "price": "$ 349.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357692/KD-75X80J-PS5.jpg?v=637690291784370000"
+                }
+            ]
         },
         {
             "vendor": "Atajo",
@@ -33,6 +58,12 @@
             "country": "AR",
             "currency": "ARS",
             "products": [
+                {
+                    "title": "Sony PlayStation 5 825gb Standard Color Blanco Y Negro",
+                    "url": "https://www.fravega.com/p/sony-playstation-5-825gb-standard-color-blanco-y-negro-342748/",
+                    "price": "$179.999",
+                    "thumbnail": "https://images.fravega.com/f300/e24171063a6f9d21eb89c7d9eae6bc5a.jpg"
+                },
                 {
                     "title": "Consola Sony PlayStation 5",
                     "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
@@ -79,27 +110,27 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=0e67e5a5-2738-4bdc-9ab0-1b152dffc8de",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=00544d2b-cbed-4b6c-a564-bf740d881aec",
                     "price": "$ 189.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=0e67e5a5-2738-4bdc-9ab0-1b152dffc8de",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=00544d2b-cbed-4b6c-a564-bf740d881aec",
                     "price": "$ 175.818",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
                     "title": "Consola Playstation 5 Ps5 Edición Estándar + Dualsense",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-899964815-consola-playstation-5-ps5-edicion-estandar-dualsense-_JM?searchVariation=75973319131#searchVariation=75973319131&position=3&search_layout=stack&type=item&tracking_id=0e67e5a5-2738-4bdc-9ab0-1b152dffc8de",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-899964815-consola-playstation-5-ps5-edicion-estandar-dualsense-_JM?searchVariation=75973319131#searchVariation=75973319131&position=3&search_layout=stack&type=item&tracking_id=00544d2b-cbed-4b6c-a564-bf740d881aec",
                     "price": "$ 229.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_887486-MLA44250626275_122020-V.webp"
                 },
                 {
-                    "title": "Consola Playstation 5 825gb Standard Ps5 + Joy Adicional",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1101164156-consola-playstation-5-825gb-standard-ps5-joy-adicional-_JM?searchVariation=173575223941#searchVariation=173575223941&position=4&search_layout=stack&type=item&tracking_id=0e67e5a5-2738-4bdc-9ab0-1b152dffc8de",
-                    "price": "$ 252.999",
-                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_826405-MLA47345066873_092021-V.webp"
+                    "title": "Play 5 Playstation 5 825gb Standard Ps5 + Joy Blanco Extra",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1132231167-play-5-playstation-5-825gb-standard-ps5-joy-blanco-extra-_JM?searchVariation=174407139999#searchVariation=174407139999&position=4&search_layout=stack&type=item&tracking_id=00544d2b-cbed-4b6c-a564-bf740d881aec",
+                    "price": "$ 199.999",
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_677549-MLA49665947056_042022-V.webp"
                 }
             ]
         },
