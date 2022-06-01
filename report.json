@@ -31,12 +31,6 @@
                     "url": "https://store.sony.com.ar/kd-65x80j_playstation5/p",
                     "price": "$ 349.999",
                     "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/357692/KD-75X80J-PS5.jpg?v=637690291784370000"
-                },
-                {
-                    "title": "Kit: PS5 + Nioh Collection",
-                    "url": "https://store.sony.com.ar/kit-ps5-noah-collection/p",
-                    "price": "$ 159.999",
-                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/359661/kit-ps5-nioh-collection.jpg?v=637884015961370000"
                 }
             ]
         },
@@ -128,25 +122,25 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=82f642f1-5520-40f9-9fef-a12c0e7310d3",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=5ab46764-be49-4dac-8a5a-a4f727cb8acc",
                     "price": "$ 189.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=82f642f1-5520-40f9-9fef-a12c0e7310d3",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=5ab46764-be49-4dac-8a5a-a4f727cb8acc",
                     "price": "$ 187.139",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
                     "title": "Sony Playstation 5 825gb Standard Color Blanco Y Negro",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-885817644-sony-playstation-5-825gb-standard-color-blanco-y-negro-_JM?searchVariation=174390324528#searchVariation=174390324528&position=3&search_layout=stack&type=item&tracking_id=82f642f1-5520-40f9-9fef-a12c0e7310d3",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-885817644-sony-playstation-5-825gb-standard-color-blanco-y-negro-_JM?searchVariation=174390324528#searchVariation=174390324528&position=3&search_layout=stack&type=item&tracking_id=5ab46764-be49-4dac-8a5a-a4f727cb8acc",
                     "price": "$ 179.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_837326-MLA48804629636_012022-V.webp"
                 },
                 {
                     "title": "Consola Ps5 Digital Local A La Calle Newportobelisco",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-928078328-consola-ps5-digital-local-a-la-calle-newportobelisco-_JM?searchVariation=89804807230#searchVariation=89804807230&position=4&search_layout=stack&type=item&tracking_id=82f642f1-5520-40f9-9fef-a12c0e7310d3",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-928078328-consola-ps5-digital-local-a-la-calle-newportobelisco-_JM?searchVariation=89804807230#searchVariation=89804807230&position=4&search_layout=stack&type=item&tracking_id=5ab46764-be49-4dac-8a5a-a4f727cb8acc",
                     "price": "$ 185.990",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_989798-MLA46597325645_072021-V.webp"
                 }
@@ -168,14 +162,7 @@
             "url": "https://www.cetrogar.com.ar/tecnologia/video-juegos/consolas.html",
             "country": "AR",
             "currency": "ARS",
-            "products": [
-                {
-                    "title": "PlayStation PS5 HW STANDARD",
-                    "url": "https://www.cetrogar.com.ar/playstation-ps5-hw-standard.html",
-                    "price": "$159.999",
-                    "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/e/l/el2307_ps5_playstation_ps5_hw_standard.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300"
-                }
-            ]
+            "products": []
         },
         {
             "vendor": "BestBuy",
