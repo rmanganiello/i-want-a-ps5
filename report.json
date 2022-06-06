@@ -32,7 +32,14 @@
             "url": "https://www.fravega.com/l/?categorias=videojuegos/consolas&keyword=playstation%205",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "Consola Sony PlayStation 5",
+                    "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
+                    "price": "$229.999",
+                    "thumbnail": "https://images.fravega.com/f300/89bea7a00cd70df09f3c3a9eb44ee94a.jpg"
+                }
+            ]
         },
         {
             "vendor": "Necxus",
@@ -41,7 +48,38 @@
             "url": "https://www.necxus.com.ar/categorias/53/530901/Playstation-5/",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
+                    "price": "$ 200.609",
+                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola Playstation 5 825Gb Digital Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
+                    "price": "$ 181.500",
+                    "thumbnail": "https://www.necxus.com.ar/cache/22846_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola PS5 Playstation Edicion Fisica + Joystick Ps5 Sony Dual Sense",
+                    "url": "https://www.necxus.com.ar/productos/22588/Consola-PS5-Playstation-Edicion-Fisica-+",
+                    "price": "$ 216.064",
+                    "thumbnail": "https://www.necxus.com.ar/cache/22588_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola PS5 Playstation 5 Edicion Digital + Camara",
+                    "url": "https://www.necxus.com.ar/productos/24109/Consola-PS5-Playstation-5-Edicion-digita",
+                    "price": "$ 193.333",
+                    "thumbnail": "https://www.necxus.com.ar/cache/24109_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/24007/Consola-Playstation-5-825Gb-Fisica-Editi",
+                    "price": "$ 200.609",
+                    "thumbnail": "https://www.necxus.com.ar/cache/24007_250x250_1.jpg"
+                }
+            ]
         },
         {
             "vendor": "MercadoLibre",
@@ -53,25 +91,25 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=91eab4ff-acff-4a1c-95e9-3fc9d2827fef",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=594b8ad4-5abf-40ea-abb4-5181d669801c",
                     "price": "$ 189.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=91eab4ff-acff-4a1c-95e9-3fc9d2827fef",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=594b8ad4-5abf-40ea-abb4-5181d669801c",
                     "price": "$ 188.215",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
                     "title": "Consola Ps5 Standard Playstation 5 825gb Joystick Adicional",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1108278334-consola-ps5-standard-playstation-5-825gb-joystick-adicional-_JM?searchVariation=173808098036#searchVariation=173808098036&position=3&search_layout=stack&type=item&tracking_id=91eab4ff-acff-4a1c-95e9-3fc9d2827fef",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1108278334-consola-ps5-standard-playstation-5-825gb-joystick-adicional-_JM?searchVariation=173808098036#searchVariation=173808098036&position=3&search_layout=stack&type=item&tracking_id=594b8ad4-5abf-40ea-abb4-5181d669801c",
                     "price": "$ 205.590",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_623948-MLA50145558669_052022-V.webp"
                 },
                 {
                     "title": "Consola Playstation 5 825gb Standard Ps5 + Joy Black Extra",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1132224374-consola-playstation-5-825gb-standard-ps5-joy-black-extra-_JM?searchVariation=174407003944#searchVariation=174407003944&position=4&search_layout=stack&type=item&tracking_id=91eab4ff-acff-4a1c-95e9-3fc9d2827fef",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1132224374-consola-playstation-5-825gb-standard-ps5-joy-black-extra-_JM?searchVariation=174407003944#searchVariation=174407003944&position=4&search_layout=stack&type=item&tracking_id=594b8ad4-5abf-40ea-abb4-5181d669801c",
                     "price": "$ 199.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_648427-MLA49665615425_042022-V.webp"
                 }
