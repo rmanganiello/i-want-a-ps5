@@ -32,7 +32,14 @@
             "url": "https://www.fravega.com/l/?categorias=videojuegos/consolas&keyword=playstation%205",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "Consola Sony PlayStation 5",
+                    "url": "https://www.fravega.com/p/consola-sony-playstation-5-20015828/",
+                    "price": "$279.999",
+                    "thumbnail": "https://images.fravega.com/f300/defb5eff1d3d9a0e62d63ecf61991342.jpg"
+                }
+            ]
         },
         {
             "vendor": "Necxus",
@@ -78,25 +85,25 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=a67cdd3b-414b-458a-877e-0758b50f1af8",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=d8774843-2a38-464b-a228-2a5cc915c066",
                     "price": "$ 249.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=a67cdd3b-414b-458a-877e-0758b50f1af8",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=d8774843-2a38-464b-a228-2a5cc915c066",
                     "price": "$ 268.000",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
-                    "title": "Sony Playstation 5 825 Gb Standard Con Lectora Ps5 Cuotas!",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1116434284-sony-playstation-5-825-gb-standard-con-lectora-ps5-cuotas-_JM?searchVariation=174019197873#searchVariation=174019197873&position=3&search_layout=stack&type=item&tracking_id=a67cdd3b-414b-458a-877e-0758b50f1af8",
-                    "price": "$ 332.999",
+                    "title": "Consola Sony Playstation 5 825gb Core",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1145163904-consola-sony-playstation-5-825gb-core-_JM?searchVariation=174749053447#searchVariation=174749053447&position=3&search_layout=stack&type=item&tracking_id=d8774843-2a38-464b-a228-2a5cc915c066",
+                    "price": "$ 259.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739160-MLA44484414453_012021-V.webp"
                 },
                 {
                     "title": "Consola Playstation 5 Ps5 Digital / Makkax",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-926674419-consola-playstation-5-ps5-digital-makkax-_JM?searchVariation=88798076892#searchVariation=88798076892&position=4&search_layout=stack&type=item&tracking_id=a67cdd3b-414b-458a-877e-0758b50f1af8",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-926674419-consola-playstation-5-ps5-digital-makkax-_JM?searchVariation=88798076892#searchVariation=88798076892&position=4&search_layout=stack&type=item&tracking_id=d8774843-2a38-464b-a228-2a5cc915c066",
                     "price": "$ 311.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_863469-MLA46481854659_062021-V.webp"
                 }
