@@ -69,12 +69,6 @@
             "currency": "ARS",
             "products": [
                 {
-                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
-                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
-                    "price": "$ 295.999",
-                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
-                },
-                {
                     "title": "Consola PS5 Playstation Edicion Fisica + Joystick Ps5 Sony Dual Sense",
                     "url": "https://www.necxus.com.ar/productos/22588/Consola-PS5-Playstation-Edicion-Fisica-+",
                     "price": "$ 317.999",
@@ -85,6 +79,12 @@
                     "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
                     "price": "$ 275.999",
                     "thumbnail": "https://www.necxus.com.ar/cache/22846_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
+                    "price": "$ 295.999",
+                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
                 }
             ]
         },
@@ -98,27 +98,27 @@
             "products": [
                 {
                     "title": "Sony PlayStation 5 825GB Standard color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=ae31f303-be8c-4e1f-9b19-c4ab9645892a",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-standard-color-blanco-y-negro/p/MLA16171888?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16171888&position=1&search_layout=stack&type=product&tracking_id=9fa1b6fb-4960-43d4-bf47-d6078e2abc30",
                     "price": "$ 289.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_841787-MLA44484414455_012021-V.webp"
                 },
                 {
                     "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=ae31f303-be8c-4e1f-9b19-c4ab9645892a",
+                    "url": "https://www.mercadolibre.com.ar/sony-playstation-5-825gb-digital-edition-color-blanco-y-negro/p/MLA16253015?pdp_filters=category:MLA438566%7CITEM_CONDITION:2230284#searchVariation=MLA16253015&position=2&search_layout=stack&type=product&tracking_id=9fa1b6fb-4960-43d4-bf47-d6078e2abc30",
                     "price": "$ 299.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-V.webp"
                 },
                 {
                     "title": "Play Station 5 Standard (la Plata) Leer Descripcion!!",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1128972336-play-station-5-standard-la-plata-leer-descripcion-_JM?searchVariation=174334881738#searchVariation=174334881738&position=3&search_layout=stack&type=item&tracking_id=ae31f303-be8c-4e1f-9b19-c4ab9645892a",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-1128972336-play-station-5-standard-la-plata-leer-descripcion-_JM?searchVariation=174334881738#searchVariation=174334881738&position=3&search_layout=stack&type=item&tracking_id=9fa1b6fb-4960-43d4-bf47-d6078e2abc30",
                     "price": "$ 269.999",
                     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_980416-MLA49450908438_032022-V.webp"
                 },
                 {
-                    "title": "Playstation 5 Edición Digital Sin Lectora, Nueva",
-                    "url": "https://articulo.mercadolibre.com.ar/MLA-1113825187-playstation-5-edicion-digital-sin-lectora-nueva-_JM?searchVariation=173949553336#searchVariation=173949553336&position=4&search_layout=stack&type=item&tracking_id=ae31f303-be8c-4e1f-9b19-c4ab9645892a",
+                    "title": "Sony Playstation 5 Edición Digital",
+                    "url": "https://articulo.mercadolibre.com.ar/MLA-927783085-sony-playstation-5-edicion-digital-_JM?searchVariation=89586289642#searchVariation=89586289642&position=4&search_layout=stack&type=item&tracking_id=9fa1b6fb-4960-43d4-bf47-d6078e2abc30",
                     "price": "$ 299.999",
-                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_771341-MLA47671030252_092021-V.webp"
+                    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921181-MLA44435659373_122020-V.webp"
                 }
             ]
         },
