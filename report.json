@@ -41,6 +41,12 @@
             "currency": "ARS",
             "products": [
                 {
+                    "title": "Sony PlayStation 5 825gb Standard Color Blanco Y Negro",
+                    "url": "https://www.fravega.com/p/sony-playstation-5-825gb-standard-color-blanco-y-negro-342748/",
+                    "price": "$299.999",
+                    "thumbnail": "https://images.fravega.com/f300/e24171063a6f9d21eb89c7d9eae6bc5a.jpg"
+                },
+                {
                     "title": "Persona 5 Strikers",
                     "url": "https://www.fravega.com/p/persona-5-strikers-20031308/",
                     "price": "$18.599,99",
@@ -93,6 +99,12 @@
                     "thumbnail": "https://www.necxus.com.ar/cache/24007_250x250_1.jpg"
                 },
                 {
+                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
+                    "price": "$ 301.999",
+                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
+                },
+                {
                     "title": "Consola Playstation 5 825Gb Digital Edition Ps5 - Blanco/Negro",
                     "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
                     "price": "$ 281.999",
@@ -103,12 +115,6 @@
                     "url": "https://www.necxus.com.ar/productos/22588/Consola-PS5-Playstation-Edicion-Fisica-+",
                     "price": "$ 324.999",
                     "thumbnail": "https://www.necxus.com.ar/cache/22588_250x250_1.jpg"
-                },
-                {
-                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
-                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
-                    "price": "$ 301.999",
-                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
                 }
             ]
         },
