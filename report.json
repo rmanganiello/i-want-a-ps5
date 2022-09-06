@@ -23,14 +23,7 @@
             "url": "https://www.atajo.com.ar/consolas-gaming--prod--110",
             "country": "AR",
             "currency": "ARS",
-            "products": [
-                {
-                    "title": "PLAYSTATION 5 STANDARD EDITION",
-                    "url": "https://www.atajo.com.ar/consolas-playstation-5-standard-edition--det--PS5-STANDARD",
-                    "price": "$ 299999",
-                    "thumbnail": "https://www.atajo.com.ar/thumb/0000PS5-STANDARD39851PS5-DIGITAL-01_400x400.jpg"
-                }
-            ]
+            "products": []
         },
         {
             "vendor": "Fravega",
