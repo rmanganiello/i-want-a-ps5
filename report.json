@@ -7,7 +7,14 @@
             "url": "https://store.sony.com.ar/consolas",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "Consola PlayStation 5 + Juego PS5 Ghostwire Tokyo",
+                    "url": "https://store.sony.com.ar/kit-ps5-consola-ghostwire-juego/p",
+                    "price": "$ 299.999",
+                    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/359922/kit-ps5-ghostwire.jpg?v=637921931774800000"
+                }
+            ]
         },
         {
             "vendor": "Atajo",
@@ -22,6 +29,12 @@
                     "url": "https://www.atajo.com.ar/consolas-playstation-5-standard-edition--det--PS5-STANDARD",
                     "price": "$ 299999",
                     "thumbnail": "https://www.atajo.com.ar/thumb/0000PS5-STANDARD39851PS5-DIGITAL-01_400x400.jpg"
+                },
+                {
+                    "title": "PLAYSTATION 5 STANDARD HORIZON FORBIDDEN EDITION",
+                    "url": "https://www.atajo.com.ar/consolas-playstation-5-standard-horizon-forbidden-edition--det--PS5-STANDARD-HORIZON",
+                    "price": "$ 349999",
+                    "thumbnail": "https://www.atajo.com.ar/thumb/PS5-STANDARD-HORIZON63517PS5-STANDARD-HORIZON_400x400.jpg"
                 }
             ]
         },
