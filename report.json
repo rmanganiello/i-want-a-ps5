@@ -82,6 +82,12 @@
             "products": [
                 {
                     "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
+                    "price": "$ 290.999",
+                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
                     "url": "https://www.necxus.com.ar/productos/24007/Consola-Playstation-5-825Gb-Fisica-Editi",
                     "price": "$ 290.999",
                     "thumbnail": "https://www.necxus.com.ar/cache/24007_250x250_1.jpg"
@@ -91,12 +97,6 @@
                     "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
                     "price": "$ 269.999",
                     "thumbnail": "https://www.necxus.com.ar/cache/22846_250x250_1.jpg"
-                },
-                {
-                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
-                    "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
-                    "price": "$ 290.999",
-                    "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
                 }
             ]
         },
