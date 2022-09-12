@@ -23,7 +23,20 @@
             "url": "https://www.atajo.com.ar/consolas-gaming--prod--110",
             "country": "AR",
             "currency": "ARS",
-            "products": []
+            "products": [
+                {
+                    "title": "PLAYSTATION 5 STANDARD EDITION",
+                    "url": "https://www.atajo.com.ar/consolas-playstation-5-standard-edition--det--PS5-STANDARD",
+                    "price": "$ 299999",
+                    "thumbnail": "https://www.atajo.com.ar/thumb/0000PS5-STANDARD39851PS5-DIGITAL-01_400x400.jpg"
+                },
+                {
+                    "title": "PLAYSTATION 5 STANDARD HORIZON FORBIDDEN EDITION",
+                    "url": "https://www.atajo.com.ar/consolas-playstation-5-standard-horizon-forbidden-edition--det--PS5-STANDARD-HORIZON",
+                    "price": "$ 349999",
+                    "thumbnail": "https://www.atajo.com.ar/thumb/PS5-STANDARD-HORIZON63517PS5-STANDARD-HORIZON_400x400.jpg"
+                }
+            ]
         },
         {
             "vendor": "Fravega",
@@ -74,12 +87,6 @@
             "currency": "ARS",
             "products": [
                 {
-                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
-                    "url": "https://www.necxus.com.ar/productos/24007/Consola-Playstation-5-825Gb-Fisica-Editi",
-                    "price": "$ 290.999",
-                    "thumbnail": "https://www.necxus.com.ar/cache/24007_250x250_1.jpg"
-                },
-                {
                     "title": "Consola Playstation 5 825Gb Digital Edition Ps5 - Blanco/Negro",
                     "url": "https://www.necxus.com.ar/productos/22846/Consola-Playstation-5-825Gb-Digital-Edit",
                     "price": "$ 269.999",
@@ -90,6 +97,12 @@
                     "url": "https://www.necxus.com.ar/productos/21441/Consola-Playstation-5-825Gb-Fisica-Editi",
                     "price": "$ 290.999",
                     "thumbnail": "https://www.necxus.com.ar/cache/21441_250x250_1.jpg"
+                },
+                {
+                    "title": "Consola Playstation 5 825Gb Fisica Edition Ps5 - Blanco/Negro",
+                    "url": "https://www.necxus.com.ar/productos/24007/Consola-Playstation-5-825Gb-Fisica-Editi",
+                    "price": "$ 290.999",
+                    "thumbnail": "https://www.necxus.com.ar/cache/24007_250x250_1.jpg"
                 }
             ]
         },
